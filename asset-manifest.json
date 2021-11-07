@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/slider-swiper/static/js/main.fc247a2b.chunk.js",
+    "main.js.map": "/slider-swiper/static/js/main.fc247a2b.chunk.js.map",
+    "runtime-main.js": "/slider-swiper/static/js/runtime-main.4d05c997.js",
+    "runtime-main.js.map": "/slider-swiper/static/js/runtime-main.4d05c997.js.map",
+    "static/css/2.4d8d6c40.chunk.css": "/slider-swiper/static/css/2.4d8d6c40.chunk.css",
+    "static/js/2.045fe3b6.chunk.js": "/slider-swiper/static/js/2.045fe3b6.chunk.js",
+    "static/js/2.045fe3b6.chunk.js.map": "/slider-swiper/static/js/2.045fe3b6.chunk.js.map",
+    "static/js/3.e1eba308.chunk.js": "/slider-swiper/static/js/3.e1eba308.chunk.js",
+    "static/js/3.e1eba308.chunk.js.map": "/slider-swiper/static/js/3.e1eba308.chunk.js.map",
+    "index.html": "/slider-swiper/index.html",
+    "static/css/2.4d8d6c40.chunk.css.map": "/slider-swiper/static/css/2.4d8d6c40.chunk.css.map",
+    "static/js/2.045fe3b6.chunk.js.LICENSE.txt": "/slider-swiper/static/js/2.045fe3b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d05c997.js",
+    "static/css/2.4d8d6c40.chunk.css",
+    "static/js/2.045fe3b6.chunk.js",
+    "static/js/main.fc247a2b.chunk.js"
+  ]
+}
