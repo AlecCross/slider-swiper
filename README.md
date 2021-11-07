@@ -8,3 +8,6 @@
 <p>$ npm install swiper
 <p>API: <a href="https://swiperjs.com/api">https://swiperjs.com/api</a>
 <p>StackOverflow: <a href="https://stackoverflow.com/questions/tagged/swiper">https://stackoverflow.com/questions/tagged/swiper</a>
+  
+<p>swiper версии 7 работает, только если у вас чистый ESM. если нет, вам необходимо перейти на версию 6.8.4
+<p>npm install swiper@6.8.4
