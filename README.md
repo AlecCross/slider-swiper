@@ -1,6 +1,6 @@
 <h2>Слайдер SWIPER (Тестирование возможностей)</h2>
 
-<h1><a href="https://aleccross.github.io/slider-swiper/">Demo</a>
+<h1><a href="https://aleccross.github.io/slider-swiper/" target="_blank" rel="noopener noreferrer">Demo</a>
   
 <p>Написан на чистом js и не требует дополнительных библиотек
 
