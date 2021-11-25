@@ -6,7 +6,7 @@ import 'swiper/swiper.min.css'
 import 'swiper/components/pagination'
 import 'swiper/components/scrollbar'
 
-function App() {
+function SliderAutoplay() {
 
   SwiperCore.use([Navigation, Pagination, Scrollbar, A11y, Autoplay])
 
@@ -35,14 +35,8 @@ function App() {
           style={{ height: 300 }}
           alt="Изображение"
           src={image} /></SwiperSlide>)}
-          <SwiperSlide><img
-          style={{ height: 300 }}
-          alt="Изображение"
-          src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJSdJf8KOSZkf9TKLFfGTB8mVCo3P6rifYOZThIkVEVHjEFeGIiGvEeQu5UoRHYVMC8-E&usqp=CAU' />
-          <h1 style={{marginTop: "-50px"}}>12415</h1>
-          </SwiperSlide>
     </Swiper>
   </>
 }
 
-export default App
+export default SliderAutoplay
