@@ -1,11 +1,11 @@
 <h2>Слайдер SWIPER (Тестирование возможностей)</h2>
 
-<h1><a href="https://aleccross.github.io/slider-swiper/" target="_blank" rel="noopener noreferrer">Demo</a>
+<h1><a href="https://aleccross.github.io/slider-swiper/" target="_blank" rel="noopener noreferrer">Demo my repo</a>
   
 <p>Написан на чистом js и не требует дополнительных библиотек
 
 <p>Сайт: <a href="https://swiperjs.com">https://swiperjs.com</a>
-<p>Демо: <a href="https://swiperjs.com/demos">https://swiperjs.com/demos</a>
+<p>Демо официальное: <a href="https://swiperjs.com/demos">https://swiperjs.com/demos</a>
 <p>Подключение: <a href="https://swiperjs.com/get-started">https://swiperjs.com/get-started</a>
 <p>$ npm install swiper
 <p>API: <a href="https://swiperjs.com/api">https://swiperjs.com/api</a>
